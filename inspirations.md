@@ -19,63 +19,63 @@ Inspirational Media (categorized by usage)
 ------------------------------------------
 
 + General
-> The Dresden Files
-> Mahou Sensei Negima
-> Fate/ series (Stay Night, Zero)
+> + The Dresden Files
+> + Mahou Sensei Negima
+> + Fate/ series (Stay Night, Zero)
 
 + Magic
-> D&D's warlock
-> inFamous
-> Fairy Tail
+> + D&D's warlock
+> + inFamous
+> + Fairy Tail
 
 + Faith 
-> D&D's warlock invocations, bards, and binders
+> + D&D's warlock invocations, bards, and binders
 
 + Ki
-> D&D's Incarnum
-> Avatar: Legend of Aang & Legend of Korra
-> Dragonball series
-> Naruto
+> + D&D's Incarnum
+> + Avatar: Legend of Aang & Legend of Korra
+> + Dragonball series
+> + Naruto
 
 + Psionics
-> Psyren
-> X-Men
+> + Psyren
+> + X-Men
 
 + Tek
-> Girl Genius
-> Iron Man
-> MacGuyver
+> + Girl Genius
+> + Iron Man
+> + MacGuyver
 
 + Magic & Faith combo
-> Eragon
+> + Eragon
 
 + Magic & Ki combo
-> Several characters from Negima (like Negi himself)
-> Various Elementalists (like DC's Livewire)
+> + Several characters from Negima (like Negi himself)
+> + Various Elementalists (like DC's Livewire)
 
 + Magic & Psionics combo
 
 + Magic & Tek Combo
-> Several characters from Negima (like Chachamaru)
+> + Several characters from Negima (like Chachamaru)
 
 + Faith & Ki Combo
-> Stormlight Archive
+> + Stormlight Archive
 
 + Faith & Psionics Combo
-> Various Spirit Channelers
+> + Various Spirit Channelers
 
 + Faith & Tek Combo
-> Evangelion
-> Horizon in the Middle of Nowhere
+> + Evangelion
+> + Horizon in the Middle of Nowhere
 
 + Ki & Psionics Combo
-> Dune (Bene Jessurit)
+> + Dune (Bene Jessurit)
 
 + Ki + Tek Combo
-> Battle Angel Alita
-> Overwatch
+> + Battle Angel Alita
+> + Overwatch
 
 + Psionics & Tek Combo
-> Disney's Atlantis
-> Stargate
-> Mass Effect
+> + Disney's Atlantis
+> + Stargate
+> + Mass Effect
