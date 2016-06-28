@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Soulbound - Faith Module
-permalink: /core
+permalink: /faith
 ---
 
 Faith rules for Soulbound.  Coming Soon!
