@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Soulbound - Supernatural Powers
-permalink /supernatural_powers
+permalink: /supernatural_powers
 ---
 
 General Supernatural Powers information.  Coming Soon!
